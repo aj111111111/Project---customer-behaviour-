@@ -39,13 +39,5 @@ Geographic Distributions: Regional performance mapping to identify top-performin
 
 Segment-Level Insights: Deep dives into customer demographics, purchasing habits, and product preferences.
 
-📁 Repository Structure
-Plaintext
-├── data/
-│   ├── raw_data.csv          # Original raw dataset
-│   └── cleaned_data.csv      # Processed dataset ready for SQL/BI
-├── notebooks/
-│   └── data_cleaning.ipynb   # Python script/notebook for data preprocessing
-├── sql/
-│   └── business_queries.sql  # 10 SQL queries with solutions & comments
+
 
